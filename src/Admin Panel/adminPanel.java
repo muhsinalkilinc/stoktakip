@@ -69,9 +69,9 @@ public class adminPanel extends javax.swing.JFrame implements ActionListener {
         bProgramGit.setText("Kullanıcı Değiştir");
         bProgramGit.addActionListener(this);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("/home/takoz/Pictures/administrative-tools.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("/home/takoz/Pictures/administrative-tools.png")); 
 
-        jLabel1.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Arial", 1, 18)); 
         jLabel1.setForeground(new java.awt.Color(254, 254, 254));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("MENÜ");
@@ -121,7 +121,7 @@ public class adminPanel extends javax.swing.JFrame implements ActionListener {
         jPanel3.setBackground(new java.awt.Color(254, 254, 254));
         jPanel3.setPreferredSize(new java.awt.Dimension(700, 600));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("/home/clepz/Downloads/tarik.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(""));
         jLabel3.setAlignmentX(0.5F);
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
