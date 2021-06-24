@@ -8,10 +8,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author clepz
- */
 public class KullaniciEkle extends javax.swing.JPanel {
 
     private javax.swing.JLabel jLabel9;
